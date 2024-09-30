@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import "animate.css";
 import "./globals.css";
 import Navbanner from "@/components/common/Navbanner";
 
@@ -25,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${inter.className}`}>
         <Navbanner />
-        {children}
+        <main>{children}</main>
       </body>
     </html>
   );
