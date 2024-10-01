@@ -1,20 +1,11 @@
 html[data-theme="theme1"] {
-  --color-primary: #f98866;
-  --color-secondary: #80bd9e;
-  --color-buttons: #89da59;
-  --color-typography: #ff320e;
+  --color-primary: #e84b4f;
+  --color-secondary: #4be8e4;
+  --color-typography: #fff;
 }
 
 html[data-theme="theme2"] {
-  --color-primary: #f4cc70;
-  --color-secondary: #6ab187;
-  --color-buttons: #de7a22;
-  --color-typography: #20948b;
-}
-
-html[data-theme="theme3"] {
-  --color-primary: #f1f1f2;
-  --color-secondary: #a1d6e2;
-  --color-buttons: #bcbabe;
-  --color-typography: #1995ad;
+  --color-primary: #32cd32;
+  --color-secondary: #cd32cd;
+  --color-typography: #fff;
 }

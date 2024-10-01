@@ -4,10 +4,9 @@
 
 @layer base {
   html {
-    --color-primary: #4285f4;
-    --color-secondary: #34a853;
-    --color-buttons: #fbbc05;
-    --color-typography: #ea4335;
+    --color-primary: #0476d0;
+    --color-secondary: #d05e04;
+    --color-typography: #fff;
   }
 }
 
